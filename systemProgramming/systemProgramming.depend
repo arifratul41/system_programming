@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446518101 source:/home/miao/AllGitProject/system_programming/systemProgramming/sys1.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<iostream>
+
